@@ -1,3 +1,3 @@
 # devops-journey
 
-for: ANDREW FRIDAY
+For: ANDREW FRIDAY
