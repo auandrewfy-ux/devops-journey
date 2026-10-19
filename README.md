@@ -1,3 +1,1 @@
-# devops-journey
-
-For: ANDREW FRIDAY.
+# devops-journey has started.
