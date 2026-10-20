@@ -70,28 +70,6 @@ To get there, I know I must first go through **System Administration**. Understa
 
 Consistency over perfection. Every commit is proof that I showed up.
 
----
-
-## 📂 Projects
-
-Each day's project will be added here.
-
-| Day | Project       | Description                   |
-| --- | ------------- | ----------------------------- |
-| 1   | _coming soon_ | _add your first project here_ |
-
----
-
-## 🎯 What's Next
-
-- [ ] Master Linux and system administration
-- [ ] Learn C++
-- [ ] Build and share one project every day
-- [ ] Move from system admin into DevOps
-- [ ] Land the job that changes everything
-
----
-
 ## 💬 A Final Word
 
 I started with nothing but belief and a willingness to keep going. I believe this journey is going to take me where I never expected.
